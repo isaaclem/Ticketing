@@ -1,1 +1,1 @@
-export default () => <h1>BANANA!</h1>;
+export default () => <h1>BANANA 2!</h1>;
